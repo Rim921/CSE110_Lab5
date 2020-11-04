@@ -1,1 +1,0 @@
-[![Build Status](https://travis-ci.org/Rim921/CSE110_Lab5.svg?branch=main)](https://travis-ci.org/Rim921/CSE110_Lab5)
