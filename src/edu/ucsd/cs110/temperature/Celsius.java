@@ -1,7 +1,5 @@
 package edu.ucsd.cs110.temperature;
 
-import sun.plugin.javascript.navig.FrameArray;
-
 public class Celsius extends Temperature
 {
     public Celsius(float t)
